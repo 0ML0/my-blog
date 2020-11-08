@@ -1,0 +1,4 @@
+# Below line prevents git from adding node modules to the git repository
+# node module is quite large and we can just run npm install our server
+# to install all of the necessary code modules for us
+node_modules 
